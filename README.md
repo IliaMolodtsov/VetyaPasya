@@ -1,2 +1,2 @@
 # VetyaPasya
-the quick brown fox jumps over the lazy dog
+the quick brown box jumps over the lazy dog
